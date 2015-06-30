@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "concat-stream": "^1.4.7",
-    "riot": "^2.1.0"
+    "riot": "^2.2.1"
   }
 }
